@@ -1,0 +1,8 @@
+Metric,Value,Model
+R² Score,0.8805303818362511,Revenue Regression
+MAE (₹),2231041.884068517,Revenue Regression
+RMSE (₹),14374447.53903181,Revenue Regression
+Accuracy,0.9252120277563608,Profit/Loss Classification
+Weighted Precision,0.9229974514696094,Profit/Loss Classification
+Weighted Recall,0.9252120277563608,Profit/Loss Classification
+Weighted F1 Score,0.9238825181692054,Profit/Loss Classification
